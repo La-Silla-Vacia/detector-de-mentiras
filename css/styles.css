@@ -49,7 +49,7 @@ header h2 {
 
 .share-container li {
   float: none;
-  display: inline!important;
+  display: inline !important;
   clear: both;
   float: none;
   margin: 0 auto;
@@ -58,8 +58,7 @@ header h2 {
 }
 
 .share-container a {
-  text-decoration: none;
-  ;
+  text-decoration: none;;
 }
 
 .ancla-buttons {
@@ -379,60 +378,76 @@ article h3 {
   header h3 {
     font-size: 30px
   }
+
   header h2 {
     font-size: 12px;
   }
+
   .seccion {
     margin: 0 20px 40px;
   }
+
   article h3 {
     font-size: 17px;
   }
+
   .title {
     width: 25%;
   }
+
   .title h2 {
     font-size: 12px;
   }
+
   .numberlist {
     font-size: 1em;
     width: 30px;
     height: 30px;
     padding-top: 1px;
   }
+
   .vermas a {
     font-size: 10px;
   }
+
   .tags span a {
     font-size: 11px;
   }
+
   .producto a {
     font-size: 10px;
   }
+
   article img {
     width: 90px;
   }
+
   .afirmacion {
     width: 100%;
     border: 0;
     margin-bottom: 15px;
   }
+
   .afirmacion p {
     font-size: 1em;
     line-height: 1.6em;
   }
+
   .afirmacion::before {
     border: 0;
   }
+
   .explicacion {
     width: 100%;
     padding-left: 15px;
     padding-right: 15px;
   }
+
   .explicacion p {
     font-size: .8em;
     line-height: 1.6em;
   }
+
   .articulos {
     width: 70%;
   }
@@ -442,20 +457,25 @@ article h3 {
   .tags {
     display: none;
   }
+
   .title {
     width: 100%;
     margin-bottom: 20px;
   }
+
   .producto a {
     font-size: 10px;
     line-height: 0px;
   }
+
   .columnarticle {
     width: 100%;
   }
+
   .articulos {
     width: 100%;
   }
+
   .afirmacion {
     float: none;
   }
