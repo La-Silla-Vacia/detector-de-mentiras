@@ -4,27 +4,59 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "C74C45FC-3DF7-40F6-92F0-E7102A18388A"
+		"uuidString": "39960368-7B5F-4BB0-9E02-3D8183370ADA"
 		}
 	],
 "creatorBuild": "25704",
 "files": {
-	"\/css\/styles-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/styles-min-min.css",
-		"oF": 0,
-		"oS": 0
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
+	"\/.idea\/detector-de-mentiras.iml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/detector-de-mentiras.iml",
+		"oF": 0
+		},
+	"\/.idea\/encodings.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/encodings.xml",
+		"oF": 0
+		},
+	"\/.idea\/misc.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/misc.xml",
+		"oF": 0
+		},
+	"\/.idea\/modules.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/modules.xml",
+		"oF": 0
+		},
+	"\/.idea\/vcs.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/vcs.xml",
+		"oF": 0
+		},
+	"\/.idea\/workspace.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/workspace.xml",
+		"oF": 0
 		},
 	"\/css\/styles.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/styles-min.css",
 		"oF": 0,
 		"oS": 0
@@ -38,7 +70,7 @@
 	"\/js\/script-min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/js\/script-min-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -47,7 +79,7 @@
 	"\/js\/script.js": {
 		"ft": 64,
 		"mi": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/js\/script-min.js",
 		"oF": 0,
 		"sC": 0,
@@ -60,7 +92,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 511289105,
-	"displayValue": "Detector de mentiras",
+	"displayValue": "detector-de-mentiras",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-obama"
 	},

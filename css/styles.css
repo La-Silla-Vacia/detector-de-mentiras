@@ -204,7 +204,7 @@ article h3 {
   color: #898d90;
 }
 
-.clearfix {
+.mentira-clearfix {
   clear: both;
   margin: 0;
   height: 20px;
@@ -450,7 +450,7 @@ article h3 {
     font-size: 10px;
     line-height: 0px;
   }
-  .columnarticle, {
+  .columnarticle {
     width: 100%;
   }
   .articulos {
